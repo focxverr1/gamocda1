@@ -1,0 +1,421 @@
+.banner{
+    background-color: white;
+}
+
+.flex-fully-centered{
+    display: flex;
+    justify-content: center;
+    min-height: 500px;
+    align-items: center;
+    flex-direction: column;
+}
+
+.btn-green{
+    background: rgba(150, 187, 124, 1);
+
+    
+}
+
+.text-greem{
+    color: rgba(150, 187, 124, 1);
+
+
+}
+
+.col-md-4{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    min-width: 600px;
+}
+
+.chamoweva{
+    font-weight: 600;
+}
+
+.meore{
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 160px 0px;
+}
+
+.sigrze{
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 30px;
+
+width: 1045px;
+height: 292px;
+}
+
+.simagle{
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 35px 40px;
+gap: 20px;
+
+width: 249px;
+height: 292px;
+
+}
+
+
+.gazrda{
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 22px 19px;
+gap: 10px;
+
+width: 70px;
+height: 76px;
+
+height: 76px;
+width: 70px;
+left: 40px;
+top: 35px;
+border-radius: 10px;
+padding: 22px 19px 22px 19px;
+
+}
+
+.nacrisferi{
+    color: #737373;
+}
+
+.mesame{
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 160px 0px;
+
+position: absolute;
+width: 1050px;
+height: 869px;
+left: calc(50% - 1050px/2);
+top: 0px;
+}
+
+.farte{
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding: 0px;
+gap: 30px;
+
+width: 1045px;
+height: 549px;
+
+}
+
+.rame{
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 30px;
+
+width: 520px;
+height: 549px;
+}
+
+.raime{
+    display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 35px;
+
+width: 381px;
+height: 296px;
+}
+
+.gacentraveba{
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 50px;
+}
+
+
+.gacentrva{
+font-family: 'Montserrat';
+width: 351px;
+height: 60px;
+
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+}
+
+.gogo{
+left: 9.81%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+}
+
+.meramdene{
+    display: flex;
+flex-direction: column;
+align-items: center;
+padding: 160px 0px;
+gap: 96px;
+
+
+width: 1050px;
+height: 928.01px;
+left: calc(50% - 1050px/2);
+top: 0px;
+}
+
+.vashli{
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+}
+
+.adamiani-1{
+    display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+
+width: 508px;
+height: 378.01px;
+}
+
+.Testimonials-card{
+    display: flex;
+flex-direction: column;
+align-items: center;
+padding: 25px 25px 0px;
+
+width: 508px;
+height: 378.01px;
+}
+
+.circle-sec-{
+    width: 128px;
+height: 128px;
+
+border-radius: 200px;
+}
+
+.testimonial-user-cover-1{
+height: 128px;
+left: 0px;
+right: 0px;
+top: 0px;
+
+background: url(.jpg);
+}
+
+.img-1{
+    border-radius: 50%;
+}
+
+.card-content{
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+}
+
+.varsklavebi{
+    display: flex;
+flex-direction: row;
+align-items: center;
+margin: 50px;
+padding: 0px;
+gap: 5px;
+
+width: 130.07px;
+height: 22.01px;
+}
+
+.frame-sec-1{
+    display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px 25px;
+gap: 5px;
+
+width: 155px;
+height: 53px;
+}
+
+.adamiani{
+    text-align: center;
+letter-spacing: 0.1px;
+}
+
+.dizaini{
+font-family: 'Montserrat';
+font-style: normal;
+text-align: center;
+letter-spacing: 0.2px;
+}
+
+.container-mexute{
+    display: flex;
+flex-direction: column;
+align-items: center;
+padding: 112px 0px;
+gap: 112px;
+
+
+width: 1050px;
+height: 827px;
+left: calc(50% - 1050px/2);
+top: 0px;
+}
+
+.mexute{
+    display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 1044px;
+height: 116px;
+}
+
+.main-content-2{
+    display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 10px;
+
+width: 691px;
+height: 116px;
+}
+
+.satauri{
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 32px;
+}
+
+.wina{
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+}
+
+.dzalian{
+    display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 30px;
+
+width: 1049px;
+height: 375px;
+}
+
+.bevri{
+    display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+
+width: 238px;
+height: 375px;
+}
+
+.ananasi{
+    display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+
+width: 238px;
+height: 375px;
+
+box-shadow: 0px 13px 19px rgba(0, 0, 0, 0.07);
+border-radius: 20px;
+
+}
+
+.shasma{
+    display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+
+width: 238px;
+height: 375px;
+}
+
+.kaci{
+    
+height: 231px;
+left: 0px;
+right: 0px;
+top: 0px;
+
+background: url(.jpg);
+}
+
+.meravi{
+    display: flex;
+flex-direction: column;
+align-items: center;
+padding: 30px;
+gap: 10px;
+
+width: 232px;
+height: 144px;
+
+}
+
+.julian{
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 24px;
+}
+
+.profesia{
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+}
+
+.social-media{
+    display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 20px;
+
+width: 112px;
+height: 24px;
+
+}
+
+.iconebi{
+    width: 24px;
+height: 24px;
+
+}
